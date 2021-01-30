@@ -297,18 +297,18 @@
 
 	.cbp-hsmenu-wrapper .cbp-hssubmenu > li {
 		box-shadow: 0 1px #00ffff;
-		text-align: left;
+		text-align: center;
 	}
 
 	.cbp-hssubmenu > li a {
-		text-align: left;
+		text-align: center;
 		line-height: 50px;
-		padding: 0.4em 1em;
+		padding: 0.6em 1em;
 	}
 
 	.cbp-hssubmenu > li a img {
-		float: left;
-		max-height: 100px;
+		float: center;
+		max-height: 160px;
 	}
 
 	.cbp-hssubmenu > li a span {
