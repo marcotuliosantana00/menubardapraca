@@ -35,7 +35,7 @@ a:hover {
 }
 
 .container > header {
-	width: 120%;
+	width: 90%;
 	max-width: 69em;
 	margin: 0 auto;
 	padding: 2.875em 1.875em 1.875em;
@@ -75,7 +75,7 @@ a:hover {
 	text-indent: 0;
 	letter-spacing: 0;
 	font-weight: 300;
-	font-size: 150%;
+	font-size: 110%;
 	padding: 0.8em 1em;
 	line-height: 1.2;
 	text-align: left;
